@@ -1,6 +1,6 @@
 {
   "name": "npm-slack-messenger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Npm plugin for send messages to slack channel",
   "main": "index.js",
   "scripts": {
