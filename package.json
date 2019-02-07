@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tiago Pedro (tiago@softmakers.me)",
+  "keywords": ["npm message",  "send message to slack", "slack integration", "slack send message bot"],
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0"
